@@ -12,10 +12,10 @@ You can create this via the website ‘https://aistudio.google.com/app/apikey’
 # Downloads
  - [Python](https://www.python.org/downloads/)
  - We highly recommend using an [IDE](https://code.visualstudio.com/download) to run the code
- - [Code](https://github.com/Satera1/Website-Sentiment-Analysis.git’)
+ - [Code](https://github.com/Satera1/Website-Sentiment-Analysis/archive/refs/heads/main.zip)
 
 # How to use
- 1. Download the zip code and extract it or clone it using the link ‘https://github.com/Satera1/Website-Sentiment-Analysis.git’.
+ 1. [Download the zip code](https://github.com/Satera1/Website-Sentiment-Analysis/archive/refs/heads/main.zip) and extract it or clone it.
  2. Change the link to the news site in quotes to `‘HTTPS_WEBSITE_LINK_HERE’` in the file `Web_Scrapping.py`.
  3. Create a Google Gemini AI API KEY via ‘https://aistudio.google.com/app/apikey’ and copy and paste the key in quotes into `"YOUR_GEMINI_API_KEY_HERE"` and change the name of the model you'll be using to `"gemini-pro"` if necessary (‘gemini-pro’ is used by default) in the file `Sentiment_Analysis.py`.
  4. Run the file `Sentiment_Analysis.py` and see the result in the terminal.
